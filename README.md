@@ -1,8 +1,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=200&section=header&text=Hey%20there%2C%20I%27m%20Bali%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20GenAI%20Systems%20%26%20RAG%20Pipelines&descAlignY=55&descSize=18" width="100%"/>
-
 <a href="https://git.io/typing-svg">
   <img
 src="https://raw.githubusercontent.com/chakshat27/chakshat27/main/assets/github_profile_banner.svg"
