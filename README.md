@@ -35,15 +35,12 @@ alt="Chakshat Bali"
 **Languages & Core**
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
 </p>
 
 **AI / ML / GenAI**
 <p>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
   <img src="https://img.shields.io/badge/RAG%20Pipelines-FF6F00?style=flat-square&logo=databricks&logoColor=white"/>
   <img src="https://img.shields.io/badge/FAISS-005571?style=flat-square"/>
   <img src="https://img.shields.io/badge/Agentic%20AI-6366F1?style=flat-square"/>
@@ -54,13 +51,11 @@ alt="Chakshat Bali"
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/asyncio-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  
 </p>
 
 **Tools & Infra**
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
@@ -89,6 +84,17 @@ alt="Chakshat Bali"
       <p>FastAPI MCP tool server for IBM Watson AI agents — 6 deterministic endpoints covering signal quality gating, db4 wavelet denoising, adaptive R-peak detection, and 15+ clinical HRV features (SDNN, RMSSD, pNN50, LF/HF) across 8,000+ real-world recordings.</p>
     </td>
   </tr>
+  <tr>
+  <td width="50%">
+    <h4>💬 Sentiment Analysis</h4>
+    <p>
+      Built a machine learning pipeline for sentiment classification on textual
+      data using feature engineering and supervised learning. Performed
+      preprocessing, vectorization, model evaluation, and achieved reliable
+      sentiment prediction across positive, neutral, and negative reviews.
+    </p>
+  </td>
+</tr>
 </table>
 
 <div align="center">
