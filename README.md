@@ -88,29 +88,17 @@ alt="Chakshat Bali"
 <table>
   <tr>
     <td width="50%">
-      <h4>🎙️ ProctorPlus — AI Interviewer Agent</h4>
-      <p>Rewrote the AI interviewer decision logic and authored system prompts that give interviews real adaptive depth. Built the AI evaluation pipeline that parses transcripts, scores communication and technical accuracy, and generates structured hire/no-hire verdicts.</p>
-    </td>
-    <td width="50%">
       <h4>🤖 Multi-Agent AI Workflow Automator</h4>
       <p>LangGraph StateGraph pipeline (7 nodes: planner → researcher → summariser → writer → validator) with two-layer guardrails, semantic long-term memory via FAISS + FastEmbed, WebSocket live logging, and PostgreSQL async persistence. Full CI/CD on Railway.</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h4>🔎 9-Layer RAG Pipeline</h4>
+      <h4>🔎 RAG Pipeline</h4>
       <p>Production RAG system built around retrieval as the primary failure mode — adaptive chunking, FAISS + BM25 hybrid search, ms-marco-MiniLM cross-encoder reranking, LLM-as-a-Judge evaluation, and continuous hallucination risk scoring (0–1).</p>
-    </td>
-    <td width="50%">
-      <h4>📖 Interactive Textbook AI Tutor</h4>
-      <p>Standalone FastAPI service for ProctorPlus — students highlight text or images from PDFs and ask questions in an AI chat panel. Custom Selection-Anchored + Keyword-Scored context-budgeting algorithm eliminates hallucinations from naive truncation on long chapters.</p>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h4>🍳 ChefVision AI</h4>
-      <p>Multimodal AI product shipped at eNest Technologies — Gemini Vision ingredient detection → confidence-filtered extraction → LLM recipe generation with YouTube validation, dual-layer dietary guardrails, 5-key API rotation, and a real-time session analytics dashboard.</p>
-    </td>
     <td width="50%">
       <h4>🩺 ECG MCP Tool Server</h4>
       <p>FastAPI MCP tool server for IBM Watson AI agents — 6 deterministic endpoints covering signal quality gating, db4 wavelet denoising, adaptive R-peak detection, and 15+ clinical HRV features (SDNN, RMSSD, pNN50, LF/HF) across 8,000+ real-world recordings.</p>
