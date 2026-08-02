@@ -105,8 +105,6 @@ alt="Chakshat Bali"
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=chakshat27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chakshat27&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=chakshat27&theme=tokyonight&hide_border=true" />
 
