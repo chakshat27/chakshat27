@@ -108,8 +108,6 @@ alt="Chakshat Bali"
 
 <div align="center">
 
-*Pin your top 6 repos on your profile (Customize your pins → pick your best work) — they'll render as cards right below this section automatically.*
-
 </div>
 
 ---
