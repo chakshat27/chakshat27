@@ -126,10 +126,10 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=chakshat27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chakshat27&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=chakshat27&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -142,7 +142,7 @@
   2. Push once — it will generate the SVG automatically and commit it.
   3. Then this image will render your green-square contribution graph as an animated snake.
 -->
-<img src="https://raw.githubusercontent.com/chakshat27/chaksht27/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake"/>
+<img src="https://raw.githubusercontent.com/chakshat27/chakshat27/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake"/>
 
 </div>
 
