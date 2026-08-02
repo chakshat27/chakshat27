@@ -1,16 +1,3 @@
-<!--
-  GITHUB PROFILE README
-  =====================
-  To use this: create a new PUBLIC repo named EXACTLY your GitHub username
-  (e.g. if your username is "bali-singh", the repo must be "bali-singh").
-  GitHub will auto-render this README.md on your profile page.
-
-  BEFORE PUBLISHING — replace every placeholder below:
-  YOUR_USERNAME   -> your GitHub username
-  YOUR_LINKEDIN   -> your LinkedIn profile URL
-  YOUR_EMAIL      -> your email address
-  YOUR_PORTFOLIO  -> your portfolio/website URL
--->
 
 <div align="center">
 
@@ -36,12 +23,10 @@ alt="Chakshat Bali"
 
 ### 🧠 About Me
 
-- 🎓 B.Tech in Computer Science (Class of 2025)
-- 💼 AI Engineer at **Envsoft Solutions** — building the AI core of ProctorPlus (AI interviewing + EdTech platform): agentic interview systems, RAG pipelines, hybrid LLM evaluation, and Python backend. Previously shipped production GenAI features at **eNest Technologies**
-- 🛠️ I build things at the intersection of **LLMs, RAG, and agentic AI** — systems designed around where AI fails and engineered to not fail there
-- 🔭 Currently: AI interviewer agents that adapt to candidates, hybrid grading systems that can't be fooled by confident-sounding wrong answers, and RAG-powered tutors that know exactly where a student is stuck
-- 🌱 Deepening expertise in LLM evaluation architecture, retrieval quality, and hallucination mitigation at the systems level
-- ⚡ I care as much about *why* a design decision was made as the code itself — ask me to defend any architecture choice below
+- 💼 AI Systems Engineer at **Envsoft Solutions**, building production AI for ProctorPlus.
+- 🤖 Designing agentic AI, RAG pipelines, LLM evaluation systems, and scalable Python backends.
+- 🛠️ Interested in reliable AI systems, retrieval quality, hallucination mitigation, and AI architecture.
+- 🚀 Always building production-first AI instead of demo projects.
 
 ---
 
