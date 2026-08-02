@@ -14,10 +14,10 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=200&section=header&text=Hey%20there,%20I'm%20Bali%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20GenAI%20Systems%20%26%20RAG%20Pipelines&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=200&section=header&text=Hey%20there%2C%20I%27m%20Bali%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20GenAI%20Systems%20%26%20RAG%20Pipelines&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=06B6D4&center=true&vCenter=true&width=650&lines=Building+AI+that+works+in+the+real+world;RAG+pipelines+%7C+Agentic+AI+%7C+LLM+Evaluation;Not+just+demos+%E2%80%94+production+systems;Always+shipping+%E2%80%94+always+learning" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/chakshat27/chakshat27/main/assets/typing-banner.svg" alt="Typing SVG" width="650"/>
 </a>
 
 <p>
