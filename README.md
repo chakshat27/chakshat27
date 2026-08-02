@@ -152,7 +152,6 @@
 
 ### 💬 Let's build something
 
-I'm an AI Engineer open to full-time GenAI / Applied AI / AI Engineer roles at companies building things that matter.
 
 <a href="mailto:chakshatbali27@gmail.com"><img src="https://img.shields.io/badge/Reach%20out-06B6D4?style=for-the-badge&logo=maildotru&logoColor=white"/></a>
 
