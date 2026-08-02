@@ -1,0 +1,33 @@
+<svg width="650" height="40" viewBox="0 0 650 40" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    text {
+      font-family: 'Courier New', Consolas, monospace;
+      font-size: 22px;
+      font-weight: 600;
+      fill: #06B6D4;
+      text-anchor: middle;
+      dominant-baseline: middle;
+      opacity: 0;
+      animation-name: cycle;
+      animation-duration: 12s;
+      animation-iteration-count: infinite;
+      animation-fill-mode: both;
+      animation-timing-function: ease-in-out;
+    }
+    @keyframes cycle {
+      0%   { opacity: 0; }
+      2%   { opacity: 1; }
+      20%  { opacity: 1; }
+      23%  { opacity: 0; }
+      100% { opacity: 0; }
+    }
+    .l0 { animation-delay: 0s; }
+    .l1 { animation-delay: 3s; }
+    .l2 { animation-delay: 6s; }
+    .l3 { animation-delay: 9s; }
+  </style>
+  <text x="325" y="20" class="l0">Building AI that works in the real world</text>
+  <text x="325" y="20" class="l1">RAG pipelines | Agentic AI | LLM Evaluation</text>
+  <text x="325" y="20" class="l2">Not just demos — production systems</text>
+  <text x="325" y="20" class="l3">Always shipping — always learning</text>
+</svg>
