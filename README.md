@@ -1,16 +1,150 @@
-## Hi there 👋
+<!--
+  GITHUB PROFILE README
+  =====================
+  To use this: create a new PUBLIC repo named EXACTLY your GitHub username
+  (e.g. if your username is "bali-singh", the repo must be "bali-singh").
+  GitHub will auto-render this README.md on your profile page.
+
+  BEFORE PUBLISHING — replace every placeholder below:
+  YOUR_USERNAME   -> your GitHub username
+  YOUR_LINKEDIN   -> your LinkedIn profile URL
+  YOUR_EMAIL      -> your email address
+  YOUR_PORTFOLIO  -> your portfolio/website URL
+-->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=200&section=header&text=Hey%20there,%20I'm%20Bali%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Engineer%20%7C%20GenAI%20%26%20Backend%20Systems&descAlignY=55&descSize=18" width="100%"/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=06B6D4&center=true&vCenter=true&width=650&lines=Building+Generative+AI+systems+that+ship;RAG+pipelines+%7C+LangChain+%7C+FastAPI;Turning+LLMs+into+production+products;Always+shipping+%E2%80%94+always+learning" alt="Typing SVG" />
+</a>
+
+<p>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://YOUR_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
+
+</div>
+
+---
+
+### 🧠 About Me
+
+- 🎓 B.Tech in Computer Science (Class of 2025)
+- 💼 AI/ML Engineer — shipped production GenAI features at **eNest Technologies**, now building AI automation & creative-tech solutions for clients as a freelancer
+- 🛠️ I build things at the intersection of **LLMs, RAG, and backend engineering** — not just prototypes, but systems that go to production
+- 🔭 Currently building **automated lead-generation & AI creative pipelines** (fashion AI, model replacement, video generation) for luxury ethnic-wear brands
+- 🌱 Deepening my skills in cloud-native ML deployment (AWS SageMaker/Bedrock, GCP)
+- ⚡ Fun fact: I care as much about *why* a design decision was made as the code itself — ask me to defend any architecture choice below
+
+---
+
+### 🧰 Tech Stack
+
+**Languages & Core**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
+</p>
+
+**AI / ML / GenAI**
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG%20Pipelines-FF6F00?style=flat-square&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FAISS-005571?style=flat-square"/>
+  <img src="https://img.shields.io/badge/IBM%20Watson-052FAD?style=flat-square&logo=ibmwatson&logoColor=white"/>
+</p>
+
+**Backend & APIs**
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+</p>
+
+**Tools & Cloud**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+</p>
+
+---
+
+### 🚀 Featured Work
+
+<table>
+  <tr>
+    <td width="50%">
+      <h4>🍳 ChefVision AI</h4>
+      <p>Multimodal ingredient detection & recipe generation using Gemini Vision, built and shipped at eNest Technologies.</p>
+    </td>
+    <td width="50%">
+      <h4>🔎 Hybrid RAG Pipeline</h4>
+      <p>9-layer retrieval pipeline combining FAISS + BM25 hybrid search with an LLM-as-a-Judge evaluation loop.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h4>🩺 ECG MCP Tool Server</h4>
+      <p>Custom MCP tool server enabling IBM Watson agents to reason over ECG data.</p>
+    </td>
+    <td width="50%">
+      <h4>🎨 AI Creative Automation</h4>
+      <p>Lead-gen & content pipeline for luxury fashion brands — Explorium + Apify scraping, AI fashion video via Veo.</p>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+
+*Pin your top 6 repos on your profile (Customize your pins → pick your best work) — they'll render as cards right below this section automatically.*
+
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
 
 <!--
-**chakshat27/chakshat27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  Contribution snake animation — requires a one-time GitHub Actions setup.
+  1. Create .github/workflows/snake.yml in this repo with the action from
+     https://github.com/Platane/snk (copy their "quick start" workflow).
+  2. Push once — it will generate the SVG automatically and commit it.
+  3. Then this image will render your green-square contribution graph as an animated snake.
 -->
+<img src="https://raw.githubusercontent.com/chakshat27/chaksht27/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Let's build something
+
+I'm open to freelance AI/automation projects and full-time GenAI/backend roles.
+
+<a href="mailto:chakshatbali27@gmail.com"><img src="https://img.shields.io/badge/Reach%20out-06B6D4?style=for-the-badge&logo=maildotru&logoColor=white"/></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:6366F1&height=100&section=footer" width="100%"/>
+
+</div>
