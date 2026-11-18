@@ -21,7 +21,7 @@ alt="Chakshat Bali"
 
 ### 🧠 About Me
 
-- 💼 AI Systems Engineer at **Envsoft Solutions**, building production AI for ProctorPlus.
+- 💼 AI Developer at **Envsoft Solutions**, building production AI for ProctorPlus.
 - 🤖 Designing agentic AI, RAG pipelines, LLM evaluation systems, and scalable Python backends.
 - 🛠️ Interested in reliable AI systems, retrieval quality, hallucination mitigation, and AI architecture.
 - 🚀 Always building production-first AI instead of demo projects.
